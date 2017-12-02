@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "DATABASE CONTROL - RESTRICTED AREA"
+AuthUserFile /home/chitra5/.htpasswd
+require valid-user
